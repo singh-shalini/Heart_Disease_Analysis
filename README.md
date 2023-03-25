@@ -3,7 +3,7 @@ Heart disease is the number one cause of death globally. It is concertedly contr
 This project covers manual explorartory data analysis using python.
 
 ## Problem Statement
-Given the data about heart disease and numerous factors that cause it, perform explorarory data analysis and vizualize the insights and patterns.
+Given the data about heart disease and numerous factors that cause it, perform exploratory data analysis and visualize the insights and patterns.
 
 ## Understanding the Data
 - **age**
